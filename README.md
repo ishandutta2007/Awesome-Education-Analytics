@@ -60,7 +60,7 @@ The following table summarizes key commercial SaaS platforms for education and l
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top open-source projects, frameworks, and data platforms for building self-hosted education analytics dashboards. Sorted descending by GitHub star count ⭐.
+Below are top open-source projects, frameworks, and data platforms for building self-hosted education analytics dashboards. Sorted descending by GitHub Stars_Count ⭐.
 
 - **[Apache Superset](https://github.com/apache/superset)** [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) 🌟  
   *Modern open-source enterprise data exploration & visualization platform used to connect SIS, LMS, and assessment databases into interactive education analytics dashboards.*
@@ -100,7 +100,7 @@ Contributions are warmly welcomed! Help us keep this list comprehensive and up t
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/Update** entries in `README.md` following the tabular or starred format.
-3. 📌 **Include** verified details: platform name, URL, exact pricing tier/limits, star badges, and factual descriptions.
+3. 📌 **Include** verified details: platform name, URL, exact pricing tier/limits, Stars_Badges, and factual descriptions.
 4. 🚀 **Submit** a Pull Request with a clear summary of your changes.
 
 ---
